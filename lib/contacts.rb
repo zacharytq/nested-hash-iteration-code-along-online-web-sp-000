@@ -24,7 +24,7 @@ def remove_strawberry(contacts)
       end
     end
     include Enumerable
-    
+
     def each(&block)
       
     end
